@@ -14,10 +14,10 @@
 
 ***Status: 404 - Debojit Not Found***
 
-[![Website](https://img.shields.io/badge/debojit.is--a.dev-000?style=flat-square\&logo=google-chrome\&logoColor=white)](https://debojit.is-a.dev)
-[![Email](https://img.shields.io/badge/Email-000?style=flat-square\&logo=gmail\&logoColor=white)](mailto:debojitdutta109@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/debojit-dutta-5871291ba/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_.d.e.b.o.j.i.t._)
+[![Website](https://img.shields.io/badge/debojit.is--a.dev-000?style=flat-square\&logo=google-chrome\&logoColor=yellow)](https://debojit.is-a.dev)
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square\&logo=gmail\&logoColor=orange)](mailto:debojitdutta109@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=blue)](https://linkedin.com/in/debojit-dutta-5871291ba/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram&logoColor=pink)](https://instagram.com/_.d.e.b.o.j.i.t._)
 
 <br>
 
@@ -67,11 +67,9 @@ I build tools, web applications, libraries, and random utilities — mostly thin
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=debojitdutta&show_icons=true&hide_border=true&theme=transparent" alt="Debojit's GitHub Stats">
-
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debojitdutta&hide_border=true&theme=transparent" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debojitdutta&hide_border=false&theme=transparent" alt="GitHub Streak">
 
 <br><br>
 
