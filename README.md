@@ -27,15 +27,14 @@
 
 ### About
 
-MCA student and software developer from **Kolkata**, currently building things, breaking things, and occasionally figuring out why something worked five minutes ago.
+MCA student and software developer, currently building things, breaking things, and occasionally figuring out why something worked five minutes ago.
 
 I build tools, web applications, libraries, and random utilities — mostly things I wish existed, occasionally things nobody asked for.
 
-* **Education** · MCA / BCA
-* **Based in** · Kolkata, India
-* **Currently working on** · Personal projects & experiments
-* **Freelance** · Maybe
-* **Status** · Probably debugging something that worked five minutes ago
+* **🏫Education** MCA / BCA
+* **Location** · Assam - Kolkata
+* **Currently working on** · Myself
+* **Status** · #opentowork 😭
 * **Website** · [debojit.is-a.dev](https://debojit.is-a.dev)
 
 ---
@@ -44,6 +43,8 @@ I build tools, web applications, libraries, and random utilities — mostly thin
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -80,8 +81,6 @@ I build tools, web applications, libraries, and random utilities — mostly thin
 ---
 
 <div align="center">
-
-**`404: Debojit Not Found`**
 
 *The developer you're looking for is currently debugging.*
 
