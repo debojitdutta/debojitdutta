@@ -1,13 +1,11 @@
 <div align="center">
 
 ```text
-██████╗ ███████╗██████╗  ██████╗      ██╗██╗████████╗
-██╔══██╗██╔════╝██╔══██╗██╔═══██╗     ██║██║╚══██╔══╝
-██║  ██║█████╗  ██████╔╝██║   ██║     ██║██║   ██║
-██║  ██║██╔══╝  ██╔══██╗██║   ██║██   ██║██║   ██║
-██████╔╝███████╗██████╔╝╚██████╔╝╚█████╔╝██║   ██║
-╚═════╝ ╚══════╝╚═════╝  ╚═════╝  ╚════╝ ╚═╝   ╚═╝
-
+████    █████   ████     ███      ███   ███   █████ 
+█   █   █       █   █   █   █      █     █      █   
+█   █   ████    ████    █   █      █     █      █   
+█   █   █       █   █   █   █   █  █     █      █   
+████    █████   ████     ███     ██     ███     █   
 ```
 
 **MCA · Software Engineer / Maybe**<br>
@@ -18,8 +16,8 @@
 
 [![Website](https://img.shields.io/badge/debojit.is--a.dev-000?style=flat-square\&logo=google-chrome\&logoColor=white)](https://debojit.is-a.dev)
 [![Email](https://img.shields.io/badge/Email-000?style=flat-square\&logo=gmail\&logoColor=white)](mailto:debojitdutta109@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/debojitdutta)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/_.d.e.b.o.j.i.t._)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/debojit-dutta-5871291ba/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_.d.e.b.o.j.i.t._)
 
 <br>
 
